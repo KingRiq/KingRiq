@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingRiq but please this is a childish nickname. Please call me Eriq Hampton.
+- 👋 Hi, I’m Eriq Hampton.
 - 👀 I’m interested in Computer Science with a strong focus on Software Development
 - 🌱 I’m currently learning Operating Systems and optimizing my understanding of different data structures.
 - 💞️ I’m looking to collaborate on anything worthwhile. I really just want to get my feet wet in this field.
